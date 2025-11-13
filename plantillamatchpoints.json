@@ -1,7 +1,7 @@
 [
  {
    "HOME": "Atlanta",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -34,7 +34,7 @@
 },
  {
    "HOME": "Boston",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -67,7 +67,7 @@
 },
  {
    "HOME": "Brooklyn",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -100,7 +100,7 @@
 },
  {
    "HOME": "Charlotte",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -133,7 +133,7 @@
 },
  {
    "HOME": "Chicago",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -166,7 +166,7 @@
 },
  {
    "HOME": "Cleveland",
-   "FIELD2": "Toronto",
+   "AWAY": "Toronto",
    "HANDICAP": 0.8,
    "PUNTOS TOTALES": 238.1,
    "t": 110.81,
@@ -199,7 +199,7 @@
 },
  {
    "HOME": "Dallas",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -232,7 +232,7 @@
 },
  {
    "HOME": "Denver",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -265,7 +265,7 @@
 },
  {
    "HOME": "Detroit",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -298,7 +298,7 @@
 },
  {
    "HOME": "Golden State",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -331,7 +331,7 @@
 },
  {
    "HOME": "Houston",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -364,7 +364,7 @@
 },
  {
    "HOME": "Indiana",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -397,7 +397,7 @@
 },
  {
    "HOME": "LA Clippers",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -430,7 +430,7 @@
 },
  {
    "HOME": "LA Lakers",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -463,7 +463,7 @@
 },
  {
    "HOME": "Memphis",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -496,7 +496,7 @@
 },
  {
    "HOME": "Miami",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -529,7 +529,7 @@
 },
  {
    "HOME": "Milwaukee",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -562,7 +562,7 @@
 },
  {
    "HOME": "Minnesota",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -595,7 +595,7 @@
 },
  {
    "HOME": "New Orleans",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -628,7 +628,7 @@
 },
  {
    "HOME": "New York",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -661,7 +661,7 @@
 },
  {
    "HOME": "Okla City",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -694,7 +694,7 @@
 },
  {
    "HOME": "Orlando",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -727,7 +727,7 @@
 },
  {
    "HOME": "Philadelphia",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -760,7 +760,7 @@
 },
  {
    "HOME": "Phoenix",
-   "FIELD2": "Indiana",
+   "AWAY": "Indiana",
    "HANDICAP": 14.7,
    "PUNTOS TOTALES": 231.7,
    "t": 113.24,
@@ -793,7 +793,7 @@
 },
  {
    "HOME": "Portland",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -826,7 +826,7 @@
 },
  {
    "HOME": "Sacramento",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -859,7 +859,7 @@
 },
  {
    "HOME": "San Antonio",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -892,7 +892,7 @@
 },
  {
    "HOME": "Toronto",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
@@ -925,7 +925,7 @@
 },
  {
    "HOME": "Utah",
-   "FIELD2": "Atlanta",
+   "AWAY": "Atlanta",
    "HANDICAP": 0.3,
    "PUNTOS TOTALES": 232.55,
    "t": 113.26,
@@ -958,7 +958,7 @@
 },
  {
    "HOME": "Washington",
-   "FIELD2": "",
+   "AWAY": "",
    "HANDICAP": null,
    "PUNTOS TOTALES": null,
    "t": null,
